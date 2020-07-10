@@ -1,5 +1,6 @@
 module PackageTest
 
-# Write your package code here.
+include("extra_file.jl")
+greet()  = println("Hello world")
 
 end
