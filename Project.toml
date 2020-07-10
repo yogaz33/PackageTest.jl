@@ -1,0 +1,13 @@
+name = "PackageTest"
+uuid = "f62276d4-b93b-48c3-85ed-5eb61a59a3a4"
+authors = ["Yarely Ogaz"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
