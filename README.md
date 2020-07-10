@@ -6,3 +6,7 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/yogaz33/PackageTest.jl?svg=true)](https://ci.appveyor.com/project/yogaz33/PackageTest-jl)
 [![Coverage](https://codecov.io/gh/yogaz33/PackageTest.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/yogaz33/PackageTest.jl)
 [![Coverage](https://coveralls.io/repos/github/yogaz33/PackageTest.jl/badge.svg?branch=master)](https://coveralls.io/github/yogaz33/PackageTest.jl?branch=master)
+
+
+
+This is a test to create a simple package. Once a working package is created I will try to use Documenter.jl and GitHubPages correctly.
